@@ -1,0 +1,1 @@
+# Auto-manual-image-slider
